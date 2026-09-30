@@ -1,0 +1,16 @@
+{
+  "id": "./isla-brava.html",
+  "name": "Isla Brava — Aventura de bloques",
+  "short_name": "Isla Brava",
+  "description": "Explorá una isla, completá misiones y derrotá al gólem.",
+  "start_url": "./isla-brava.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#102432",
+  "theme_color": "#102432",
+  "lang": "es-AR",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
