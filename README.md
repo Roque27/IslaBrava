@@ -1,6 +1,6 @@
 # Isla Brava
 
-Juego de aventuras de bloques para navegador, hecho con HTML, CSS y JavaScript. Explorá una isla de 500 × 500 metros, completá misiones, mejorá tu equipo y derrotá al gólem.
+Juego de aventuras de bloques para navegador, hecho con HTML, CSS y JavaScript. Explorá dos islas de 500 × 500 metros, completá misiones y mejorá tu equipo. Reuní 300 puntos en el nivel 1 para enfrentar al gólem y 350 en la selva del nivel 2 para llegar al basilisco.
 
 **Jugar:** https://roque27.github.io/IslaBrava/
 

@@ -2,7 +2,7 @@
   "id": "./isla-brava.html",
   "name": "Isla Brava — Aventura de bloques",
   "short_name": "Isla Brava",
-  "description": "Explorá una isla, completá misiones y derrotá al gólem.",
+  "description": "Explorá dos islas, completá misiones y derrotá al gólem y al basilisco.",
   "start_url": "./isla-brava.html",
   "scope": "./",
   "display": "standalone",
